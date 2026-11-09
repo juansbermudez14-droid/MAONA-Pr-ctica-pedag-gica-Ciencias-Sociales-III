@@ -1,0 +1,23 @@
+LA ESCUELA QUE HABITAMOS — SITIO WEB EDITABLE
+
+ABRIR: descomprime la carpeta y abre index.html en Chrome, Edge o Firefox.
+
+ARCHIVOS:
+- index.html: textos y estructura de la página.
+- styles.css: diseño, colores mate, tipografías y animaciones.
+- script.js: menú, transiciones, galería, infografía y vídeo.
+- assets/: infografía y presentación PowerPoint.
+
+PERSONALIZACIÓN:
+- Galería: hay seis espacios iniciales. Usa “Cargar imagen” o “Añadir imágenes” para sumar otras. Puedes editar pies de foto y eliminar tarjetas.
+- Infografía: “Reemplazar infografía” permite cargar otra imagen sin mezclarla con la galería.
+- Vídeo: carga un vídeo local para verlo durante esa sesión o pega un enlace público/insertable de YouTube o Vimeo.
+- Presentación: el botón de materiales descarga el PPTX incluido.
+- Textos: modifica index.html. Colores: cambia variables al comienzo de styles.css.
+
+IMPORTANTE:
+- La galería e infografía se guardan en el almacenamiento local del navegador cuando el tamaño lo permite; no se envían a un servidor.
+- El vídeo local no se conserva al cerrar la sesión. Para publicar, aloja el vídeo y configura un enlace o ruta estable.
+- Google Fonts requiere conexión; hay tipografías alternativas si no hay internet.
+- Antes de publicar, revisa permisos de uso de imágenes y evita exponer datos personales de estudiantes.
+- La información de la página se basa en los diarios de campo y materiales de práctica localizados; son observaciones situadas, no un diagnóstico exhaustivo del colegio.
